@@ -1,6 +1,10 @@
 # ubikemap
 
-A new Flutter project.
+## Introdoction
+
+This is a practice of flutter and OpenAPI connection.
+
+An app that can find the city bike by user location, giving the nearest bike station and its rent status.
 
 ## Getting Started
 
